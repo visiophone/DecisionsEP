@@ -2,7 +2,7 @@ DecisionsEP
 ===========
 AgentBoogie - Decisions EP
 
-Processing Code for the ArtWork
+Processing code for developing the illustration for cover the ArtWork
 
 In the folder data you can change the picture to explore another ilustrations.
 Explore diferent results by changin gthe values of the diferente parameters (acc, topspeed, lifetime, colorines,....)in the class "agentes"
